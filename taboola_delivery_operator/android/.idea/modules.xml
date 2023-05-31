@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-596008069/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-596008069/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-882895669/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-882895669/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/800577056/android.location.iml" filepath="$PROJECT_DIR$/.idea/modules/800577056/android.location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1874020131/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1874020131/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1068827960/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1068827960/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2099132596/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-2099132596/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-516173120/android.sms_autofill.iml" filepath="$PROJECT_DIR$/.idea/modules/-516173120/android.sms_autofill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1314615445/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1314615445/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1190967673/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/1190967673/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>
